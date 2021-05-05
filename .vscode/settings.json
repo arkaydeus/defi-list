@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/ryu/.local/share/virtualenvs/defi-list-nlmrly4P/bin/python",
+    "python.formatting.provider": "black"
+}
